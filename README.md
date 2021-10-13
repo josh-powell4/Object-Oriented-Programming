@@ -8,6 +8,9 @@ Graduation: 05-05-2021
  - As a student I learned to analyze, program, test, document, and maintain a variety of information systems solutions to business problems.
 
 ## New Objective - OOP concepts and learning continued. 
+-- Continue to learn Python and OOP concepts
+-- Hacking and network penetration using Python
+-- Python programming
 
 ## Relevant Course:
 - CIS 225 | Object-Oriented Programming
@@ -33,3 +36,7 @@ Graduation: 05-05-2021
 
 
 # Technical Skills
+Python
+Notepad++
+MS Visual Studios
+Eclipse
